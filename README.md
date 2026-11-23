@@ -49,6 +49,7 @@ Team project — built a hyper-local campus navigation and event platform for Pa
 
 #### 🤖 Samagama FAQ Portal
 [Repo](https://github.com/vicharanashala/team-6a312e9212663badc7e3c0f4)
+
 Team project — built an AI-powered FAQ and Community Q&A platform for the Vicharanashala Internship Programme at IIT Ropar, serving interns.
 My contributions: RAG pipeline architecture, document chunking, vector indexing, and FastAPI inference microservice.
 - Implemented document preprocessing and chunking to convert raw programme documentation into context-preserving semantic chunks.
@@ -57,15 +58,14 @@ My contributions: RAG pipeline architecture, document chunking, vector indexing,
 - Enabled automated AI workflows across question validation, auto-replies, community answer moderation, and summary synthesis via REST integration with the Next.js backend.
 Python FastAPI RAG ChromaDB Google Gemini Embeddings Vector Search REST API
 
-
-####  [](https://github.com/deepanshuchauhanx1/AI-Traffic-Flow-Optimizer)
 #### 🚦 AI Traffic Flow Optimizer
-[Repo]([https://github.com/deepanshuchauhanx1/AI-Traffic-Flow-Optimizer)
-> Built an end-to-end emergency vehicle detection system covering model training, backend API, and frontend dashboard.  
-> Trained a custom image classification model using scikit-learn achieving 85% Top-1 accuracy and 100% Top-5 accuracy.  
-> Developed a FastAPI backend with endpoints to process images and videos, returning vehicle count and density analysis.  
-> Designed a responsive HTML/CSS/JS dashboard with drag-and-drop upload, live results, and detection timeline for videos.  
-> Containerized the application and managed dependencies for consistent local and production deployment.
+[Repo](https://github.com/deepanshuchauhanx1/AI-Traffic-Flow-Optimizer)
+
+- Built an end-to-end emergency vehicle detection system covering model training, backend API, and frontend dashboard.  
+- Trained a custom image classification model using scikit-learn achieving 85% Top-1 accuracy and 100% Top-5 accuracy.  
+- Developed a FastAPI backend with endpoints to process images and videos, returning vehicle count and density analysis.  
+- Designed a responsive HTML/CSS/JS dashboard with drag-and-drop upload, live results, and detection timeline for videos.  
+- Containerized the application and managed dependencies for consistent local and production deployment.
  
 `Python` `scikit-learn` `FastAPI` `OpenCV` `HTML` `CSS` `JavaScript` `Docker` `Computer Vision`
 
